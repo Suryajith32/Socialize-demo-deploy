@@ -1,0 +1,7 @@
+.profile-cover-image{
+    width:40%;
+    height: 21vh;
+    padding-top: 16px;
+    object-fit: cover;
+    border-radius: 23PX;
+}
